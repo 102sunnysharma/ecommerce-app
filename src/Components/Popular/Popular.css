@@ -4,6 +4,9 @@
     align-items: center;
     gap: 10px;
     height: 90vh;
+    background:linear-gradient(180deg,#e1ffea22,#47fdae 60% )
+    /* background:linear-gradient(180deg,#e1ffea22,#47fdae 60% , #e1ffea22); */
+    
     
 }
 .popular h1{
